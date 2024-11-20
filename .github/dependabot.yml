@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "" # See documentation for possible values
+  - package-ecosystem: "Pip" # See documentation for possible values
     directory: "/" # Location of package manifests
-    schedule: 
+    schedule: 17/12/2024
       interval: "weekly"
